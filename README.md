@@ -248,16 +248,6 @@ transferOwnership(address)
 
 ---
 
-## 🗺️ Gelecek Planlar
-
-- [ ] Testnet (Sepolia) deploy
-- [ ] IPFS ile sertifika & belge saklama
-- [ ] Mobil QR okuyucu ile herkese açık ilaç doğrulama sayfası
-- [ ] Dark mode
-- [ ] Çoklu dil desteği (TR / EN)
-- [ ] Email / push bildirimleri
-
----
 
 ## 📄 Lisans
 
@@ -265,6 +255,4 @@ Bu proje [MIT](LICENSE) lisansı altında lisanslanmıştır.
 
 ---
 
-<p align="center">
-  Geliştirici: <strong>@kullanici-adin</strong> &nbsp;|&nbsp; 💊 <strong>PharmaChain</strong> — Sağlığınız için şeffaf bir tedarik zinciri
-</p>
+
